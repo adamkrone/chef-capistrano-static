@@ -1,0 +1,1 @@
+# Capistrano Static Site Cookbook
